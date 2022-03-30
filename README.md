@@ -4,6 +4,14 @@
 
 vue3+ant descign UI 实现的任务日程展示Demo
 
+## func
+
+- [x] and design引入
+- [x] 日历展示
+- [x] dayjs日期格式化
+- [x] axios接口请求
+- [x] vue打包配置
+
 ## preview
 
 ![](./img/img01.png)
